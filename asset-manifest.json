@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/vk-goodcode/static/js/main.a8dd4686.chunk.js",
-    "main.js.map": "/vk-goodcode/static/js/main.a8dd4686.chunk.js.map",
+    "main.js": "/vk-goodcode/static/js/main.2d1de508.chunk.js",
+    "main.js.map": "/vk-goodcode/static/js/main.2d1de508.chunk.js.map",
     "runtime-main.js": "/vk-goodcode/static/js/runtime-main.a679e6ac.js",
     "runtime-main.js.map": "/vk-goodcode/static/js/runtime-main.a679e6ac.js.map",
     "static/css/2.09e62520.chunk.css": "/vk-goodcode/static/css/2.09e62520.chunk.css",
     "static/js/2.b5ac53b3.chunk.js": "/vk-goodcode/static/js/2.b5ac53b3.chunk.js",
     "static/js/2.b5ac53b3.chunk.js.map": "/vk-goodcode/static/js/2.b5ac53b3.chunk.js.map",
     "index.html": "/vk-goodcode/index.html",
-    "precache-manifest.5a261c1d28286c57099a62ac2e77941f.js": "/vk-goodcode/precache-manifest.5a261c1d28286c57099a62ac2e77941f.js",
+    "precache-manifest.fdac732f48de44f048c57f4bd34acda3.js": "/vk-goodcode/precache-manifest.fdac732f48de44f048c57f4bd34acda3.js",
     "service-worker.js": "/vk-goodcode/service-worker.js",
     "static/css/2.09e62520.chunk.css.map": "/vk-goodcode/static/css/2.09e62520.chunk.css.map",
     "static/js/2.b5ac53b3.chunk.js.LICENSE.txt": "/vk-goodcode/static/js/2.b5ac53b3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a679e6ac.js",
     "static/css/2.09e62520.chunk.css",
     "static/js/2.b5ac53b3.chunk.js",
-    "static/js/main.a8dd4686.chunk.js"
+    "static/js/main.2d1de508.chunk.js"
   ]
 }
