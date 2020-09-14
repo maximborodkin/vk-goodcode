@@ -39,6 +39,7 @@ class App extends React.Component {
 
         console.log({image});
 
+
         if (image) {
 			this.setState({ image });
 		}
@@ -81,7 +82,7 @@ class App extends React.Component {
 						{
 							!!image &&
 							<Div style={{ textAlign: 'center' }}>
-                                <img src={ image } alt="remote file" />
+                                <img src={ image } referrerPolicy="no-referrer" alt="remote file" />
 							</Div>
 						}
                     </Group>

@@ -7,4 +7,7 @@ import App from './App';
 
 bridge.send('VKWebAppInit', {});
 
-ReactDOM.render(<App />, document.getElementById('root'));
+let root = document.getElementById('root')
+root.referrerPolicy = "no-referer";
+
+ReactDOM.render(<App />, root);
